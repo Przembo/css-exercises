@@ -1,6 +1,10 @@
-p {
+.odd {
     background-color: #FF6699;
     font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.oddly-cool {
+    font-size: 24px;
 }
 #second {
     color: blue;
